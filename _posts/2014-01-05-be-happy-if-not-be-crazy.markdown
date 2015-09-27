@@ -2,7 +2,7 @@
 layout: post
 title:  "Be happy, if not, be crazy"
 date:   2014-01-05 19:36:00
-categories: personal
+categories: ruxu-life
 ---
 年中的时候，我以为今年会是我的ex年：ex的部门，ex的团队，ex的o老大还有ex的s。后来事实证明自己当初过于悲观了，老天爷还是很公平的，他在某个方面让你摔一跤一定会在另外一个方面补偿你。
 
